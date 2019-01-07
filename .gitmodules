@@ -1,0 +1,6 @@
+[submodule "AlgorithmsInPython"]
+	path = AlgorithmsInPython
+	url = http://github.com/pitcany/AlgorithmsInPython.git
+[submodule "CPlusPlus"]
+	path = CPlusPlus
+	url = http://github.com/pitcany/AlgorithmsInCPlusPlus.git
