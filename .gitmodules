@@ -4,3 +4,6 @@
 [submodule "CPlusPlus"]
 	path = CPlusPlus
 	url = http://github.com/pitcany/AlgorithmsInCPlusPlus.git
+[submodule "Python"]
+	path = Python
+	url = http://github.com/pitcany/AlgorithmsInPython.git
